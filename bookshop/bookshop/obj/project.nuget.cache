@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlBtGCagymc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kseniya Nikitchenko\\Documents\\Учёба\\Курсовая работа\\bookshop\\bookshop\\bookshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kseniya Nikitchenko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kseniya Nikitchenko\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kseniya Nikitchenko\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
